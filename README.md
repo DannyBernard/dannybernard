@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Danny Alberto Bernard</h1><h3 align="center">Un apasionado desarrollador de software de República Dominicana</h3>- Actualmente estoy trabajando en **Dwald Consulting**- 📫 🔭 Cómo comunicarse conmigo **danny.bernard@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3><
-
-p align="left">
+<h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 
 
